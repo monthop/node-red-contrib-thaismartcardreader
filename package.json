@@ -15,7 +15,8 @@
     "pcsclite",
     "smartcards",
     "ccid",
-    "thaismartcardreader"
+    "thaismartcardreader",
+    "node-red"
   ],
   "node-red": {
     "nodes": {
