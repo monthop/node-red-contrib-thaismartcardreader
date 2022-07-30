@@ -3,7 +3,7 @@ A simple node for node-red to thaismartcardreader
 
 ## Installation
 ```
-npm -g install node-red-contrib-thaismartcardreader
+npm install https://github.com/monthop/node-red-contrib-thaismartcardreader
 ```
 
 ## Node-Red example
